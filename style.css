@@ -2,7 +2,7 @@
   box-sizing: border-box;
 }
 body {
-    background-color: rgb(164, 243, 243);
+  background-color: rgb(255, 245, 245);
   font-family: "Poppins", sans-serif;
   display: flex;
   flex-direction: column;
@@ -10,10 +10,10 @@ body {
   justify-content: center;
   height: 100vh;
 }
-.content{
-    font-size: 20px;
-    font-weight: bold;
-    margin-bottom: 40px;
+.content {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 40px;
 }
 .btn.off {
   background-color: rgb(211, 29, 29);
